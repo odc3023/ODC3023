@@ -1,46 +1,34 @@
-👋 Hi, I’m Osheen Constable!
+Hi, I’m Osheen Constable
 
-Welcome to my GitHub profile! I am currently a Computer Science and Technology student at the Harbin Institute of Technology, where I’m honing my skills in software development through various hands-on projects and academic pursuits. With a strong foundation in backend and frontend technologies, I’m passionate about building impactful digital solutions.
+Welcome to my GitHub profile! I recently graduated with a B.Eng. in Computer Science and Technology from Harbin Institute of Technology, where I built a solid foundation in information systems, networks, databases, and software development. My interests lie in how technology can be designed, managed, and integrated to improve accessibility, education, and organizational performance.
 
-🔍 About Me
+⸻
 
-	•	🎓 Education – Fourth-year International Student at HIT with coursework in Operating Systems, Database Systems, Computer Networks, and Software Engineering.
-	•	🌏 Vice-Chair at Hi-Talk – Leading intercultural exchange events to foster communication and understanding across diverse student communities.
-	•	💻 Technical Skills – Proficient in Python, Java, React, Node.js, and SQL with experience in creating robust backend architectures and secure, efficient database systems.
-	•	🌱 Current Project – Developing a Digital Education Platform aimed at making educational resources more accessible.
+About Me
+	•	Education – Bachelor of Engineering in Computer Science & Technology (Harbin Institute of Technology, 2025).
+	•	Leadership – Vice-Chair at Hi-Talk, an intercultural exchange society that fostered cross-cultural communication and collaboration among international students.
+	•	Core Competencies – IT systems management, database design, development, and applied AI in education.
+	•	Current Focus – Exploring how information systems and digital platforms can transform education and improve access to knowledge.
 
-🚀 Key Projects
+⸻
 
-	1.	Digital Education Platform
-A comprehensive education system designed to improve access to learning resources, especially for students in Jamaica. It integrates AI tools and is being built with accessibility in mind for both web and mobile devices.
+Key Projects
 
-	2.	Full Stack Canteen Management System
-	•	Designed and maintained backend logic and database architecture.
-	•	Implemented a secure API for frontend-backend communication using RBAC and JWT for enhanced data security and system stability.
- 
-	3.	Network Design Project | Cisco Packet Tracer
-	•	Created a secure company network with VLAN, NAT, and ACL configurations for seamless internal and external communication.
-	•	Configured routers and servers to ensure safe access while isolating internal traffic for optimized security.
+1. Intelligent Digital Education Platform
+An AI-integrated system designed to make learning resources more accessible, with applications for schools in Jamaica. Focused on information management, usability, and accessibility.
 
-📚 Areas of Interest
+2. Canteen Management Information System
+	•	Designed and managed the database architecture for efficiency and reliability
+	•	Implemented secure role-based access to protect sensitive data and ensure smooth operations
 
-	•	Software Development: Building efficient, secure systems that improve user experiences.
-	•	Database Design: Leveraging optimized queries and secure architectures for high-performance applications.
-	•	Web Development: Creating responsive and engaging web applications using modern frameworks.
+3. Network Design & Infrastructure (Cisco Packet Tracer)
+	•	Built a secure company network with VLAN, NAT, and ACL configurations
+	•	Configured routers and servers to optimize communication and security across the organization
 
-Feel free to connect with me, explore my projects, or reach out if you share similar interests! Let’s make an impact together.
+⸻
 
-<!--
-**odc3023/ODC3023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Areas of Interest
+	•	IT Systems & Infrastructure – Ensuring secure, reliable, and scalable systems.
+	•	Data & Information Management – Organizing, analyzing, and securing data for decision-making.
+	•	Technology & Education – Designing platforms that improve accessibility and learning outcomes.
+	•	Systems Development – Designing reliable and user-centered systems that solve real-world problems.
